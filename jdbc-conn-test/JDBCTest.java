@@ -8,8 +8,8 @@ public class JDBCTest {
 
             // Establish connection
             String jdbcUrl = "jdbc:mysql://localhost:3306/test";
-            String username = "root";
-            String password = "Bibit@123";
+            String username = "db_username";
+            String password = "db_password";
             Connection connection = DriverManager.getConnection(jdbcUrl, username, password);
 
             // Print connection success message

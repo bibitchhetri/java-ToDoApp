@@ -15,7 +15,7 @@ public class ToDoApp extends JFrame {
 
     public ToDoApp() {
         setTitle("To-Do List");
-        setSize(300, 200);
+        setSize(500, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 

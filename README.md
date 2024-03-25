@@ -11,6 +11,8 @@ This is a Java Desktop ToDo application that performs CRUD (Create, Read, Update
 ├── LICENSE
 ├── README.md
 ├── ToDoApp.java
+├── database
+│   └── schema.sql
 ├── img
 │   └── screenshort.png
 ├── jdbc-conn-test
